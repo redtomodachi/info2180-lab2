@@ -1,3 +1,3 @@
 # INFO2180 Lab2
 
-This is Lab 2 for <Kemar Wilson>
+This is Lab 2 for Kemar Wilson
